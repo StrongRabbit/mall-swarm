@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * 商品优选管理Controller
+ * 商品优选管理Controller  5555555
  * Created by macro on 2018/6/1.
  */
 @Controller
